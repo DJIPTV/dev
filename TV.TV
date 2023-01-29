@@ -1,0 +1,39 @@
+#EXTM3U  url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN LALIGA 1" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="SPAIN SPORT",ES: DAZN LALIGA 1
+http://satline.xyz:8080/live/551662584231184/8751662584231184/25125.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga_2.png" group-title="SPAIN SPORT",ES: DAZN LALIGA 2
+http://satline.xyz:8080/live/551662584231184/8751662584231184/25127.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ Laliga SmartBankTV" tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV.png" group-title="SPAIN SPORT",ES: M+ Laliga SmartBankTV
+http://satline.xyz:8080/live/551662584231184/8751662584231184/25128.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-1-es.png" group-title="SPAIN SPORT",ES: DAZN 1
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5589.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/dazn-2-es.png" group-title="SPAIN SPORT",ES: DAZN 2
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5590.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/dazn-3-es.png" group-title="SPAIN SPORT",ES: DAZN 3
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5591.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/dazn-4-es.png" group-title="SPAIN SPORT",ES: DAZN 4
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5592.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPAIN SPORT",ES: DAZN F1
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5593.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5758.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 1 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-1-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 1 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5650.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 2 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-2-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 2 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5651.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 3 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-3-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 3 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5652.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 4 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-4-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 4 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5653.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 5 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-5-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 5 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5654.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 6 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-6-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 6 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5655.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 7 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-7-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 7 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5656.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 8 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-8-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 8 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5657.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 9 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-9-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 9 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5658.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA 10 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-10-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 10 (MATCH TIME)
+http://satline.xyz:8080/live/551662584231184/8751662584231184/5659.m3u8
